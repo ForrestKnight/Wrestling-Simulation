@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1461783935 source:c:\users\forrest_\desktop\codeblocks\wrestlingtourny\wrestlingtournament.cpp
+	<algorithm>
+	<iostream>
+	<iomanip>
+	<random>
+	<set>
+	<time.h>
+	<vector>
+
